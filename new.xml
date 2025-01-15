@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Person>
+    <surname>Тестова</surname>
+    <name>Тест</name>
+    <patronymic>Тестовна</patronymic>
+    <age>33</age>
+    <pets>2</pets>
+    <expected_salary>500000</expected_salary>
+</Person>
