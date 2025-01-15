@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entertainment>
+    <film>Test film</film>
+    <series>Test series</series>
+    <food>Test food</food>
+    <season>Test season</season>
+    <country>Test country</country>
+</Entertainment>
